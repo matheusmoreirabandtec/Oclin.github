@@ -1,0 +1,14 @@
+ID	Requisitos	Classificação
+E1	Sensor para a coleta de dados de temperatura	* Essencial
+E2	Acesso em tempo real dos dados coletados	* Essencial
+E3	Site com cadastro, para que o usuario posso acessar o projeto a qualquer momento	* Essencial
+E4	Redoma, serve para preservar a integridade do sistema que usaremos para coletar os dados	* Essencial
+E5	Aquecer a Agua, para simular a variação de temperatura e ficar mais didático	* Essencial
+I1	Aquario, será onde montaremos nosso projeto  	* Importante
+E6	Apresentação de Slides, para explicar o projeto e mostrar como foi feito a montagem e a base	* Essencial
+E7	Análise estatistica, feita por meio de gráficos em primeira instancia em tempo real	* Essencial
+I2	Câmera, para demonstrar melhor como aplicaremos o projeto e como ira funcionar	* Importante
+D1	Investimento, caso o interesse seja grande com investimento poderiamos levar mais para frente o projeto	* Desejavel
+D2	Dicas interativas de preservação dos oceanos, conscientizar o usuario de uma maneira interativa e tirar duvidas de uma maneira mais didatica	* Desejavel
+I3	Corais artificiais, para deixar a experiencia do projeto fique mais imersiva	* Importante
+D3	Tinta termosensivel, para demonstrar a alteração de temperatura do ambiente	* Desejavel
